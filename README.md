@@ -1,4 +1,4 @@
-# Simple HTML/CSS Project
+# Simple HTML/CSS Project(Image Gallery)
 
 This is a simple project showcasing HTML and CSS styling for a web page.
 
