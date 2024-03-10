@@ -9,7 +9,7 @@ This project demonstrates basic HTML structure and CSS styling for creating a re
 
 - index.html: Contains the HTML structure of the webpage.
 - styles.css: Contains the CSS styles for the webpage.
-- images folders: contains all the images used in the webpage.
+- images folder: contains all the images used in the webpage.
 
 ## How to Use
 
